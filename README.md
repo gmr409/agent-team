@@ -8,7 +8,7 @@ The prompt lives in [`agent-team.md`](agent-team.md).
 
 ---
 
-## How it works
+## Introduction
 
 Think about a small neighborhood restaurant.
 
